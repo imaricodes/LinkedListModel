@@ -10,6 +10,12 @@ namespace LinkedListModel
     {
         static void Main(string[] args)
         {
+            LinkedList names = new LinkedList("sarah");
+
+         
+            
+
+            Console.ReadKey();
         }
     }
 }

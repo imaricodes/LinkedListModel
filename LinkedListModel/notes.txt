@@ -1,0 +1,7 @@
+﻿This project is found here:
+http://www.c-sharpcorner.com/article/using-linked-list-in-C-Sharp/
+
+It is a very basic custom linked list class. It does not inherit from the ICollections class, so lacks many important members found in the .NET ArrayList class.
+
+This excercise helped me to understand how linked lists are constructed at a fundamental level. It would need quite a few more additions to be very useful. For example, a Get Enumerator function would make it easier to traverse the list (as in a foreach loop).
+
