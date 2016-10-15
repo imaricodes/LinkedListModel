@@ -26,7 +26,7 @@ namespace LinkedListModel
             get { return nPrevious; }
             set { nPrevious = value; }
         }
-
+ 
         public Node Next
         {
             get { return nNext; }
